@@ -1,3 +1,6 @@
+# * Repository moved to design-resources *
+[SPIFlashController new location](https://github.com/opalkelly-opensource/design-resources/tree/main/HDLComponents/SPIFlashController)
+
 SPIFlashController Software Distribution
 ========================================
 This is a SPI Flash Controller designed to brdige a basic FIFO interface 
